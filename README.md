@@ -35,7 +35,7 @@ ALTER DATABASE database_name
 [COLLATE collation_name ]
 
 ALTER DATABASE statements change the characteristics of a database.
-
+-
 7. CREATE TABLE — creates a new table
 CREATE TABLE table_name (
 column_1 datatype,
