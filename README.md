@@ -68,4 +68,4 @@ DROP INDEX index_name;
 
 DROP INDEX statements delete an index in a table.
 
-Thank you for reading.
+Thank you for reading...
