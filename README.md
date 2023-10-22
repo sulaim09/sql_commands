@@ -65,7 +65,7 @@ Index statements create on existing tables to retrieve the rows quickly.
 11. DROP INDEX — deletes an index
 ALTER TABLE table_name
 DROP INDEX index_name;
-
+---
 DROP INDEX statements delete an index in a table.
 
 Thank you for reading...
